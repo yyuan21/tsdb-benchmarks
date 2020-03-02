@@ -1,0 +1,20 @@
+tags,name string,fleet string,driver string,model string,device_version string,load_capacity float32,fuel_capacity float32,nominal_fuel_consumption float32
+diagnostics,fuel_state,current_load,status
+readings,latitude,longitude,elevation,velocity,heading,grade,fuel_consumption
+
+tags,name=truck_0,fleet=South,driver=Trish,model=H-2,device_version=v2.3,load_capacity=1500,fuel_capacity=150,nominal_fuel_consumption=12
+readings,1577836800000000000,52.31854,4.72037,124,0,221,0,25
+tags,name=truck_1,fleet=South,driver=Albert,model=F-150,device_version=v1.5,load_capacity=2000,fuel_capacity=200,nominal_fuel_consumption=15
+readings,1577836800000000000,72.45258,68.83761,255,0,181,0,25
+tags,name=truck_0,fleet=South,driver=Trish,model=H-2,device_version=v2.3,load_capacity=1500,fuel_capacity=150,nominal_fuel_consumption=12
+diagnostics,1577836800000000000,1,0,0
+tags,name=truck_1,fleet=South,driver=Albert,model=F-150,device_version=v1.5,load_capacity=2000,fuel_capacity=200,nominal_fuel_consumption=15
+diagnostics,1577836800000000000,1,0,0
+tags,name=truck_1,fleet=South,driver=Albert,model=F-150,device_version=v1.5,load_capacity=2000,fuel_capacity=200,nominal_fuel_consumption=15
+readings,1577836810000000000,72.44927,68.83959,248,2,184,0,20.2
+tags,name=truck_0,fleet=South,driver=Trish,model=H-2,device_version=v2.3,load_capacity=1500,fuel_capacity=150,nominal_fuel_consumption=12
+diagnostics,1577836810000000000,0.9,0,1
+tags,name=truck_1,fleet=South,driver=Albert,model=F-150,device_version=v1.5,load_capacity=2000,fuel_capacity=200,nominal_fuel_consumption=15
+diagnostics,1577836810000000000,0.9,0,0
+tags,name=truck_0,fleet=South,driver=Trish,model=H-2,device_version=v2.3,load_capacity=1500,fuel_capacity=150,nominal_fuel_consumption=12
+readings,1577836810000000000,52.32143,4.71841,131,0,219,0,28.2

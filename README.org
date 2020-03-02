@@ -1,0 +1,57 @@
+#+TITLE:     Time Series Database Benchmarks
+#+AUTHOR:    Yida Yuan
+#+EMAIL:     yida_yuan@brown.edu
+#+LANGUAGE:  en
+
+** Test Machine
+
+The following chart lists the specifications of the AWS EC2 instance used for benchmarking.
+
+| Type         | t2.large                              |
+| vCPUs        | 2                                     |
+| Threads/Core | 1                                     |
+| Architecture | X86_64                                |
+| Memory (MiB) | 8192                                  |
+| Storage Type | EBS General Purpose SSD (gp2) Volumes |
+| Storage Size | 100 GiB                               |
+
+** ClickHouse
+
+*** Dataset 1
+
+| Use Case        | CPU               |
+| Number of Hosts | 500               |
+| Duration        | 3 Days / 72 Hours |
+| Log Interval    | 10 seconds        |
+| Dataset Size    | 330 MiB           |
+
+
+
+The statistics of loading the dataset into clickhouse server:
+
+#+BEGIN_SRC 
+time,per. metric/s,metric total,overall metric/s,per. row/s,row total,overall row/s
+1583168556,1278776.76,1.280000E+07,1278776.76,127877.68,1.280000E+06,127877.68
+1583168566,1286937.52,2.570000E+07,1282860.04,128693.75,2.570000E+06,128286.00
+1583168576,1291918.63,3.860000E+07,1285873.23,129191.86,3.860000E+06,128587.32
+1583168586,1278914.48,5.140000E+07,1284133.24,127891.45,5.140000E+06,128413.32
+1583168596,1150052.56,6.290000E+07,1257332.55,115005.26,6.290000E+06,125733.26
+1583168606,1233045.76,7.520000E+07,1253294.88,123304.58,7.520000E+06,125329.49
+1583168616,1288322.34,8.810000E+07,1258304.25,128832.23,8.810000E+06,125830.43
+1583168626,1280555.60,1.009000E+08,1261084.10,128055.56,1.009000E+07,126108.41
+1583168636,1251156.57,1.134000E+08,1259982.08,125115.66,1.134000E+07,125998.21
+1583168646,1119030.21,1.246000E+08,1245876.08,111903.02,1.246000E+07,124587.61
+
+Summary:
+loaded 129600000 metrics in 103.801sec with 2 workers (mean rate 1248542.29 metrics/sec)
+loaded 12960000 rows in 103.801sec with 2 workers (mean rate 124854.23 rows/sec)
+#+END_SRC
+
+#+CAPTION: FlameGraph for Loading CPU-Only dataset
+#+NAME:   fig:fg-cpu-only
+[[./flamegraph/clickhouse-perf-load-cpu-500-hosts-3-days.svg]]
+
+** Authors
+
+ - Akshar Narain
+ - Yida Yuan
