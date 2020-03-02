@@ -49,7 +49,7 @@ loaded 12960000 rows in 103.801sec with 2 workers (mean rate 124854.23 rows/sec)
 
 #+CAPTION: FlameGraph for Loading CPU-Only dataset
 #+NAME:   fig:fg-cpu-only
-[[./flamegraph/clickhouse-perf-load-cpu-500-hosts-3-days.svg]]
+[[./flamegraphs/clickhouse-perf-load-cpu-500-hosts-3-days.svg]]
 
 ** Authors
 
