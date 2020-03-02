@@ -55,13 +55,13 @@ sudo perf record -F 99 -a -g -- sleep 120
 #+END_SRC
 
 #+CAPTION: FlameGraph for inserting CPU-Only dataset
-#+NAME:   fig:fg-cpu-only
+#+NAME:   fig:fg-cpu-only-insertions
 [[./flamegraphs/clickhouse-perf-load-cpu-500-hosts-3-days.svg]]
 
 **** Queries
 
 #+CAPTION: FlameGraph (Queries)
-#+NAME:   fig:fg-cpu-only
+#+NAME:   fig:fg-cpu-only-queries
 ./flamegraphs/clickhouse-perf-queries-cpu-500-hosts-3-days.svg
 
 ** Authors
