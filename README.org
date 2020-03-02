@@ -60,9 +60,9 @@ sudo perf record -F 99 -a -g -- sleep 120
 
 **** Queries
 
-#+CAPTION: FlameGraph (Queries)
+#+CAPTION: FlameGraph for queries
 #+NAME:   fig:fg-cpu-only-queries
-./flamegraphs/clickhouse-perf-queries-cpu-500-hosts-3-days.svg
+[[./flamegraphs/clickhouse-perf-queries-cpu-500-hosts-3-days.svg]]
 
 ** Authors
 
