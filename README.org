@@ -17,7 +17,7 @@ The following chart lists the specifications of the AWS EC2 instance used for be
 
 ** ClickHouse
 
-*** Dataset 1
+*** Data set 1
 
 | Use Case        | CPU               |
 | Number of Hosts | 500               |
@@ -63,6 +63,21 @@ sudo perf record -F 99 -a -g -- sleep 120
 #+CAPTION: FlameGraph for queries
 #+NAME:   fig:fg-cpu-only-queries
 [[./flamegraphs/clickhouse-perf-queries-cpu-500-hosts-3-days.svg]]
+
+*** Data set 2
+
+| Use Case        | Devops            |
+| Number of Hosts | 500               |
+| Duration        | 3 Days / 72 Hours |
+| Log Interval    | 10 seconds        |
+| Dataset Size    | 3941 MiB          |
+
+**** Insertions
+
+#+CAPTION: FlameGraph for Insertions (Devops)
+#+NAME:   fig:fg-devops-insertions
+[[./flamegraphs/clickhouse-perf-load-devops-500-hosts-3-days.svg]]
+
 
 ** Authors
 
