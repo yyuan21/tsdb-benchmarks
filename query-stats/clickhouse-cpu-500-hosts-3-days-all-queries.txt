@@ -1,0 +1,1156 @@
+Do not have any files specified - run from default queries folder as /tmp/bulk_queries/queries_clickhouse*
+Running queries_clickhouse_cpu-max-all-1_ca592596c73b4ebdfbcb8397c9db91e2_1000_500_123_2020-01-01T00:00:00Z_2020-01-04T00:00:00Z_cpu-only.dat.gz
+After 100 queries with 2 workers:
+Interval query rate: 167.85 queries/sec	Overall query rate: 167.85 queries/sec
+ClickHouse max of all CPU metrics, random    1 hosts, random 8h0m0s by 1h:
+min:     7.83ms, med:    11.16ms, mean:    11.82ms, max:   23.40ms, stddev:     2.96ms, sum:   1.2sec, count: 100
+all queries                                                              :
+min:     7.83ms, med:    11.16ms, mean:    11.82ms, max:   23.40ms, stddev:     2.96ms, sum:   1.2sec, count: 100
+
+After 200 queries with 2 workers:
+Interval query rate: 173.34 queries/sec	Overall query rate: 170.55 queries/sec
+ClickHouse max of all CPU metrics, random    1 hosts, random 8h0m0s by 1h:
+min:     7.26ms, med:    11.09ms, mean:    11.65ms, max:   29.22ms, stddev:     2.91ms, sum:   2.3sec, count: 200
+all queries                                                              :
+min:     7.26ms, med:    11.09ms, mean:    11.65ms, max:   29.22ms, stddev:     2.91ms, sum:   2.3sec, count: 200
+
+After 300 queries with 2 workers:
+Interval query rate: 179.27 queries/sec	Overall query rate: 173.36 queries/sec
+ClickHouse max of all CPU metrics, random    1 hosts, random 8h0m0s by 1h:
+min:     7.11ms, med:    11.13ms, mean:    11.51ms, max:   29.22ms, stddev:     2.78ms, sum:   3.5sec, count: 300
+all queries                                                              :
+min:     7.11ms, med:    11.13ms, mean:    11.51ms, max:   29.22ms, stddev:     2.78ms, sum:   3.5sec, count: 300
+
+After 400 queries with 2 workers:
+Interval query rate: 172.74 queries/sec	Overall query rate: 173.21 queries/sec
+ClickHouse max of all CPU metrics, random    1 hosts, random 8h0m0s by 1h:
+min:     7.11ms, med:    11.13ms, mean:    11.51ms, max:   29.22ms, stddev:     2.73ms, sum:   4.6sec, count: 400
+all queries                                                              :
+min:     7.11ms, med:    11.13ms, mean:    11.51ms, max:   29.22ms, stddev:     2.73ms, sum:   4.6sec, count: 400
+
+After 500 queries with 2 workers:
+Interval query rate: 182.36 queries/sec	Overall query rate: 174.96 queries/sec
+ClickHouse max of all CPU metrics, random    1 hosts, random 8h0m0s by 1h:
+min:     6.86ms, med:    11.04ms, mean:    11.40ms, max:   29.22ms, stddev:     2.70ms, sum:   5.7sec, count: 500
+all queries                                                              :
+min:     6.86ms, med:    11.04ms, mean:    11.40ms, max:   29.22ms, stddev:     2.70ms, sum:   5.7sec, count: 500
+
+After 600 queries with 2 workers:
+Interval query rate: 183.65 queries/sec	Overall query rate: 176.35 queries/sec
+ClickHouse max of all CPU metrics, random    1 hosts, random 8h0m0s by 1h:
+min:     6.86ms, med:    10.95ms, mean:    11.32ms, max:   29.22ms, stddev:     2.63ms, sum:   6.8sec, count: 600
+all queries                                                              :
+min:     6.86ms, med:    10.95ms, mean:    11.32ms, max:   29.22ms, stddev:     2.63ms, sum:   6.8sec, count: 600
+
+After 700 queries with 2 workers:
+Interval query rate: 181.16 queries/sec	Overall query rate: 177.02 queries/sec
+ClickHouse max of all CPU metrics, random    1 hosts, random 8h0m0s by 1h:
+min:     6.86ms, med:    10.93ms, mean:    11.28ms, max:   29.22ms, stddev:     2.63ms, sum:   7.9sec, count: 700
+all queries                                                              :
+min:     6.86ms, med:    10.93ms, mean:    11.28ms, max:   29.22ms, stddev:     2.63ms, sum:   7.9sec, count: 700
+
+After 800 queries with 2 workers:
+Interval query rate: 180.16 queries/sec	Overall query rate: 177.41 queries/sec
+ClickHouse max of all CPU metrics, random    1 hosts, random 8h0m0s by 1h:
+min:     6.86ms, med:    10.90ms, mean:    11.25ms, max:   29.22ms, stddev:     2.62ms, sum:   9.0sec, count: 800
+all queries                                                              :
+min:     6.86ms, med:    10.90ms, mean:    11.25ms, max:   29.22ms, stddev:     2.62ms, sum:   9.0sec, count: 800
+
+After 900 queries with 2 workers:
+Interval query rate: 178.27 queries/sec	Overall query rate: 177.51 queries/sec
+ClickHouse max of all CPU metrics, random    1 hosts, random 8h0m0s by 1h:
+min:     6.86ms, med:    10.92ms, mean:    11.25ms, max:   29.22ms, stddev:     2.59ms, sum:  10.1sec, count: 900
+all queries                                                              :
+min:     6.86ms, med:    10.92ms, mean:    11.25ms, max:   29.22ms, stddev:     2.59ms, sum:  10.1sec, count: 900
+
+After 1000 queries with 2 workers:
+Interval query rate: 179.16 queries/sec	Overall query rate: 177.67 queries/sec
+ClickHouse max of all CPU metrics, random    1 hosts, random 8h0m0s by 1h:
+min:     6.86ms, med:    10.92ms, mean:    11.24ms, max:   29.22ms, stddev:     2.55ms, sum:  11.2sec, count: 1000
+all queries                                                              :
+min:     6.86ms, med:    10.92ms, mean:    11.24ms, max:   29.22ms, stddev:     2.55ms, sum:  11.2sec, count: 1000
+
+Run complete after 1000 queries with 2 workers (Overall query rate 177.30 queries/sec):
+ClickHouse max of all CPU metrics, random    1 hosts, random 8h0m0s by 1h:
+min:     6.86ms, med:    10.92ms, mean:    11.24ms, max:   29.22ms, stddev:     2.55ms, sum:  11.2sec, count: 1000
+all queries                                                              :
+min:     6.86ms, med:    10.92ms, mean:    11.24ms, max:   29.22ms, stddev:     2.55ms, sum:  11.2sec, count: 1000
+wall clock time: 5.652172sec
+Running queries_clickhouse_cpu-max-all-8_ca592596c73b4ebdfbcb8397c9db91e2_1000_500_123_2020-01-01T00:00:00Z_2020-01-04T00:00:00Z_cpu-only.dat.gz
+After 100 queries with 2 workers:
+Interval query rate: 64.56 queries/sec	Overall query rate: 64.56 queries/sec
+ClickHouse max of all CPU metrics, random    8 hosts, random 8h0m0s by 1h:
+min:    20.43ms, med:    29.20ms, mean:    30.90ms, max:   51.85ms, stddev:     6.46ms, sum:   3.1sec, count: 100
+all queries                                                              :
+min:    20.43ms, med:    29.20ms, mean:    30.90ms, max:   51.85ms, stddev:     6.46ms, sum:   3.1sec, count: 100
+
+After 200 queries with 2 workers:
+Interval query rate: 64.82 queries/sec	Overall query rate: 64.69 queries/sec
+ClickHouse max of all CPU metrics, random    8 hosts, random 8h0m0s by 1h:
+min:    19.62ms, med:    29.05ms, mean:    30.89ms, max:   69.50ms, stddev:     7.55ms, sum:   6.2sec, count: 200
+all queries                                                              :
+min:    19.62ms, med:    29.05ms, mean:    30.89ms, max:   69.50ms, stddev:     7.55ms, sum:   6.2sec, count: 200
+
+After 300 queries with 2 workers:
+Interval query rate: 64.80 queries/sec	Overall query rate: 64.73 queries/sec
+ClickHouse max of all CPU metrics, random    8 hosts, random 8h0m0s by 1h:
+min:    19.62ms, med:    28.76ms, mean:    30.87ms, max:   69.50ms, stddev:     7.56ms, sum:   9.3sec, count: 300
+all queries                                                              :
+min:    19.62ms, med:    28.76ms, mean:    30.87ms, max:   69.50ms, stddev:     7.56ms, sum:   9.3sec, count: 300
+
+After 400 queries with 2 workers:
+Interval query rate: 65.55 queries/sec	Overall query rate: 64.93 queries/sec
+ClickHouse max of all CPU metrics, random    8 hosts, random 8h0m0s by 1h:
+min:    19.62ms, med:    28.96ms, mean:    30.79ms, max:   69.50ms, stddev:     7.44ms, sum:  12.3sec, count: 400
+all queries                                                              :
+min:    19.62ms, med:    28.96ms, mean:    30.79ms, max:   69.50ms, stddev:     7.44ms, sum:  12.3sec, count: 400
+
+After 500 queries with 2 workers:
+Interval query rate: 65.63 queries/sec	Overall query rate: 65.07 queries/sec
+ClickHouse max of all CPU metrics, random    8 hosts, random 8h0m0s by 1h:
+min:    19.62ms, med:    28.86ms, mean:    30.68ms, max:   69.50ms, stddev:     7.29ms, sum:  15.3sec, count: 500
+all queries                                                              :
+min:    19.62ms, med:    28.86ms, mean:    30.68ms, max:   69.50ms, stddev:     7.29ms, sum:  15.3sec, count: 500
+
+After 600 queries with 2 workers:
+Interval query rate: 68.10 queries/sec	Overall query rate: 65.56 queries/sec
+ClickHouse max of all CPU metrics, random    8 hosts, random 8h0m0s by 1h:
+min:    19.62ms, med:    28.64ms, mean:    30.48ms, max:   69.50ms, stddev:     7.16ms, sum:  18.3sec, count: 600
+all queries                                                              :
+min:    19.62ms, med:    28.64ms, mean:    30.48ms, max:   69.50ms, stddev:     7.16ms, sum:  18.3sec, count: 600
+
+After 700 queries with 2 workers:
+Interval query rate: 64.71 queries/sec	Overall query rate: 65.43 queries/sec
+ClickHouse max of all CPU metrics, random    8 hosts, random 8h0m0s by 1h:
+min:    19.62ms, med:    28.76ms, mean:    30.54ms, max:   69.50ms, stddev:     7.11ms, sum:  21.4sec, count: 700
+all queries                                                              :
+min:    19.62ms, med:    28.76ms, mean:    30.54ms, max:   69.50ms, stddev:     7.11ms, sum:  21.4sec, count: 700
+
+After 800 queries with 2 workers:
+Interval query rate: 65.03 queries/sec	Overall query rate: 65.38 queries/sec
+ClickHouse max of all CPU metrics, random    8 hosts, random 8h0m0s by 1h:
+min:    19.62ms, med:    28.69ms, mean:    30.57ms, max:   69.50ms, stddev:     7.16ms, sum:  24.5sec, count: 800
+all queries                                                              :
+min:    19.62ms, med:    28.69ms, mean:    30.57ms, max:   69.50ms, stddev:     7.16ms, sum:  24.5sec, count: 800
+
+After 900 queries with 2 workers:
+Interval query rate: 64.99 queries/sec	Overall query rate: 65.34 queries/sec
+ClickHouse max of all CPU metrics, random    8 hosts, random 8h0m0s by 1h:
+min:    19.62ms, med:    28.64ms, mean:    30.57ms, max:   69.50ms, stddev:     7.09ms, sum:  27.5sec, count: 900
+all queries                                                              :
+min:    19.62ms, med:    28.64ms, mean:    30.57ms, max:   69.50ms, stddev:     7.09ms, sum:  27.5sec, count: 900
+
+After 1000 queries with 2 workers:
+Interval query rate: 66.53 queries/sec	Overall query rate: 65.46 queries/sec
+ClickHouse max of all CPU metrics, random    8 hosts, random 8h0m0s by 1h:
+min:    19.62ms, med:    28.64ms, mean:    30.54ms, max:   69.50ms, stddev:     7.04ms, sum:  30.5sec, count: 1000
+all queries                                                              :
+min:    19.62ms, med:    28.64ms, mean:    30.54ms, max:   69.50ms, stddev:     7.04ms, sum:  30.5sec, count: 1000
+
+Run complete after 1000 queries with 2 workers (Overall query rate 65.36 queries/sec):
+ClickHouse max of all CPU metrics, random    8 hosts, random 8h0m0s by 1h:
+min:    19.62ms, med:    28.64ms, mean:    30.54ms, max:   69.50ms, stddev:     7.04ms, sum:  30.5sec, count: 1000
+all queries                                                              :
+min:    19.62ms, med:    28.64ms, mean:    30.54ms, max:   69.50ms, stddev:     7.04ms, sum:  30.5sec, count: 1000
+wall clock time: 15.322162sec
+Running queries_clickhouse_double-groupby-1_ca592596c73b4ebdfbcb8397c9db91e2_1000_500_123_2020-01-01T00:00:00Z_2020-01-04T00:00:00Z_cpu-only.dat.gz
+After 100 queries with 2 workers:
+Interval query rate: 13.83 queries/sec	Overall query rate: 13.83 queries/sec
+ClickHouse mean of 1 metrics, all hosts, random 12h0m0s by 1h:
+min:    99.82ms, med:   139.18ms, mean:   143.80ms, max:  223.71ms, stddev:    24.54ms, sum:  14.4sec, count: 100
+all queries                                                  :
+min:    99.82ms, med:   139.18ms, mean:   143.80ms, max:  223.71ms, stddev:    24.54ms, sum:  14.4sec, count: 100
+
+After 200 queries with 2 workers:
+Interval query rate: 13.86 queries/sec	Overall query rate: 13.85 queries/sec
+ClickHouse mean of 1 metrics, all hosts, random 12h0m0s by 1h:
+min:    99.82ms, med:   140.23ms, mean:   143.92ms, max:  223.71ms, stddev:    25.02ms, sum:  28.8sec, count: 200
+all queries                                                  :
+min:    99.82ms, med:   140.23ms, mean:   143.92ms, max:  223.71ms, stddev:    25.02ms, sum:  28.8sec, count: 200
+
+After 300 queries with 2 workers:
+Interval query rate: 14.03 queries/sec	Overall query rate: 13.91 queries/sec
+ClickHouse mean of 1 metrics, all hosts, random 12h0m0s by 1h:
+min:    99.82ms, med:   138.80ms, mean:   143.32ms, max:  223.71ms, stddev:    25.12ms, sum:  43.0sec, count: 300
+all queries                                                  :
+min:    99.82ms, med:   138.80ms, mean:   143.32ms, max:  223.71ms, stddev:    25.12ms, sum:  43.0sec, count: 300
+
+After 400 queries with 2 workers:
+Interval query rate: 13.65 queries/sec	Overall query rate: 13.84 queries/sec
+ClickHouse mean of 1 metrics, all hosts, random 12h0m0s by 1h:
+min:    99.82ms, med:   140.02ms, mean:   144.26ms, max:  223.71ms, stddev:    25.45ms, sum:  57.7sec, count: 400
+all queries                                                  :
+min:    99.82ms, med:   140.02ms, mean:   144.26ms, max:  223.71ms, stddev:    25.45ms, sum:  57.7sec, count: 400
+
+After 500 queries with 2 workers:
+Interval query rate: 13.67 queries/sec	Overall query rate: 13.81 queries/sec
+ClickHouse mean of 1 metrics, all hosts, random 12h0m0s by 1h:
+min:    98.49ms, med:   140.13ms, mean:   144.73ms, max:  223.71ms, stddev:    25.70ms, sum:  72.4sec, count: 500
+all queries                                                  :
+min:    98.49ms, med:   140.13ms, mean:   144.73ms, max:  223.71ms, stddev:    25.70ms, sum:  72.4sec, count: 500
+
+After 600 queries with 2 workers:
+Interval query rate: 13.65 queries/sec	Overall query rate: 13.78 queries/sec
+ClickHouse mean of 1 metrics, all hosts, random 12h0m0s by 1h:
+min:    97.20ms, med:   140.35ms, mean:   145.08ms, max:  223.71ms, stddev:    25.78ms, sum:  87.0sec, count: 600
+all queries                                                  :
+min:    97.20ms, med:   140.35ms, mean:   145.08ms, max:  223.71ms, stddev:    25.78ms, sum:  87.0sec, count: 600
+
+After 700 queries with 2 workers:
+Interval query rate: 13.90 queries/sec	Overall query rate: 13.80 queries/sec
+ClickHouse mean of 1 metrics, all hosts, random 12h0m0s by 1h:
+min:    95.56ms, med:   140.29ms, mean:   144.86ms, max:  224.82ms, stddev:    25.84ms, sum: 101.4sec, count: 700
+all queries                                                  :
+min:    95.56ms, med:   140.29ms, mean:   144.86ms, max:  224.82ms, stddev:    25.84ms, sum: 101.4sec, count: 700
+
+After 800 queries with 2 workers:
+Interval query rate: 13.79 queries/sec	Overall query rate: 13.80 queries/sec
+ClickHouse mean of 1 metrics, all hosts, random 12h0m0s by 1h:
+min:    95.56ms, med:   140.35ms, mean:   144.89ms, max:  240.22ms, stddev:    26.11ms, sum: 115.9sec, count: 800
+all queries                                                  :
+min:    95.56ms, med:   140.35ms, mean:   144.89ms, max:  240.22ms, stddev:    26.11ms, sum: 115.9sec, count: 800
+
+After 900 queries with 2 workers:
+Interval query rate: 13.89 queries/sec	Overall query rate: 13.81 queries/sec
+ClickHouse mean of 1 metrics, all hosts, random 12h0m0s by 1h:
+min:    95.56ms, med:   140.24ms, mean:   144.75ms, max:  240.22ms, stddev:    26.03ms, sum: 130.3sec, count: 900
+all queries                                                  :
+min:    95.56ms, med:   140.24ms, mean:   144.75ms, max:  240.22ms, stddev:    26.03ms, sum: 130.3sec, count: 900
+
+After 1000 queries with 2 workers:
+Interval query rate: 14.02 queries/sec	Overall query rate: 13.83 queries/sec
+ClickHouse mean of 1 metrics, all hosts, random 12h0m0s by 1h:
+min:    95.56ms, med:   140.24ms, mean:   144.60ms, max:  240.22ms, stddev:    26.37ms, sum: 144.6sec, count: 1000
+all queries                                                  :
+min:    95.56ms, med:   140.24ms, mean:   144.60ms, max:  240.22ms, stddev:    26.37ms, sum: 144.6sec, count: 1000
+
+Run complete after 1000 queries with 2 workers (Overall query rate 13.82 queries/sec):
+ClickHouse mean of 1 metrics, all hosts, random 12h0m0s by 1h:
+min:    95.56ms, med:   140.24ms, mean:   144.60ms, max:  240.22ms, stddev:    26.37ms, sum: 144.6sec, count: 1000
+all queries                                                  :
+min:    95.56ms, med:   140.24ms, mean:   144.60ms, max:  240.22ms, stddev:    26.37ms, sum: 144.6sec, count: 1000
+wall clock time: 72.395427sec
+Running queries_clickhouse_double-groupby-5_ca592596c73b4ebdfbcb8397c9db91e2_1000_500_123_2020-01-01T00:00:00Z_2020-01-04T00:00:00Z_cpu-only.dat.gz
+After 100 queries with 2 workers:
+Interval query rate: 4.70 queries/sec	Overall query rate: 4.70 queries/sec
+ClickHouse mean of 5 metrics, all hosts, random 12h0m0s by 1h:
+min:   323.49ms, med:   401.20ms, mean:   423.62ms, max:  635.49ms, stddev:    70.56ms, sum:  42.4sec, count: 100
+all queries                                                  :
+min:   323.49ms, med:   401.20ms, mean:   423.62ms, max:  635.49ms, stddev:    70.56ms, sum:  42.4sec, count: 100
+
+After 200 queries with 2 workers:
+Interval query rate: 4.66 queries/sec	Overall query rate: 4.68 queries/sec
+ClickHouse mean of 5 metrics, all hosts, random 12h0m0s by 1h:
+min:   322.06ms, med:   400.19ms, mean:   425.81ms, max:  635.49ms, stddev:    75.13ms, sum:  85.2sec, count: 200
+all queries                                                  :
+min:   322.06ms, med:   400.19ms, mean:   425.81ms, max:  635.49ms, stddev:    75.13ms, sum:  85.2sec, count: 200
+
+After 300 queries with 2 workers:
+Interval query rate: 4.76 queries/sec	Overall query rate: 4.71 queries/sec
+ClickHouse mean of 5 metrics, all hosts, random 12h0m0s by 1h:
+min:   311.15ms, med:   401.18ms, mean:   423.37ms, max:  635.49ms, stddev:    71.54ms, sum: 127.0sec, count: 300
+all queries                                                  :
+min:   311.15ms, med:   401.18ms, mean:   423.37ms, max:  635.49ms, stddev:    71.54ms, sum: 127.0sec, count: 300
+
+After 400 queries with 2 workers:
+Interval query rate: 4.39 queries/sec	Overall query rate: 4.62 queries/sec
+ClickHouse mean of 5 metrics, all hosts, random 12h0m0s by 1h:
+min:   311.15ms, med:   401.52ms, mean:   432.04ms, max: 1047.71ms, stddev:    89.57ms, sum: 172.8sec, count: 400
+all queries                                                  :
+min:   311.15ms, med:   401.52ms, mean:   432.04ms, max: 1047.71ms, stddev:    89.57ms, sum: 172.8sec, count: 400
+
+After 500 queries with 2 workers:
+Interval query rate: 4.59 queries/sec	Overall query rate: 4.62 queries/sec
+ClickHouse mean of 5 metrics, all hosts, random 12h0m0s by 1h:
+min:   311.15ms, med:   401.52ms, mean:   432.72ms, max: 1047.71ms, stddev:    87.98ms, sum: 216.4sec, count: 500
+all queries                                                  :
+min:   311.15ms, med:   401.52ms, mean:   432.72ms, max: 1047.71ms, stddev:    87.98ms, sum: 216.4sec, count: 500
+
+After 600 queries with 2 workers:
+Interval query rate: 4.57 queries/sec	Overall query rate: 4.61 queries/sec
+ClickHouse mean of 5 metrics, all hosts, random 12h0m0s by 1h:
+min:   311.15ms, med:   401.52ms, mean:   433.52ms, max: 1047.71ms, stddev:    87.04ms, sum: 260.1sec, count: 600
+all queries                                                  :
+min:   311.15ms, med:   401.52ms, mean:   433.52ms, max: 1047.71ms, stddev:    87.04ms, sum: 260.1sec, count: 600
+
+After 700 queries with 2 workers:
+Interval query rate: 4.73 queries/sec	Overall query rate: 4.63 queries/sec
+ClickHouse mean of 5 metrics, all hosts, random 12h0m0s by 1h:
+min:   311.15ms, med:   401.18ms, mean:   432.17ms, max: 1047.71ms, stddev:    85.19ms, sum: 302.5sec, count: 700
+all queries                                                  :
+min:   311.15ms, med:   401.18ms, mean:   432.17ms, max: 1047.71ms, stddev:    85.19ms, sum: 302.5sec, count: 700
+
+After 800 queries with 2 workers:
+Interval query rate: 4.62 queries/sec	Overall query rate: 4.63 queries/sec
+ClickHouse mean of 5 metrics, all hosts, random 12h0m0s by 1h:
+min:   311.15ms, med:   400.80ms, mean:   432.20ms, max: 1047.71ms, stddev:    85.10ms, sum: 345.8sec, count: 800
+all queries                                                  :
+min:   311.15ms, med:   400.80ms, mean:   432.20ms, max: 1047.71ms, stddev:    85.10ms, sum: 345.8sec, count: 800
+
+After 900 queries with 2 workers:
+Interval query rate: 4.70 queries/sec	Overall query rate: 4.63 queries/sec
+ClickHouse mean of 5 metrics, all hosts, random 12h0m0s by 1h:
+min:   311.15ms, med:   400.80ms, mean:   431.23ms, max: 1047.71ms, stddev:    83.77ms, sum: 388.1sec, count: 900
+all queries                                                  :
+min:   311.15ms, med:   400.80ms, mean:   431.23ms, max: 1047.71ms, stddev:    83.77ms, sum: 388.1sec, count: 900
+
+After 1000 queries with 2 workers:
+Interval query rate: 4.70 queries/sec	Overall query rate: 4.64 queries/sec
+ClickHouse mean of 5 metrics, all hosts, random 12h0m0s by 1h:
+min:   311.15ms, med:   400.80ms, mean:   430.85ms, max: 1047.71ms, stddev:    83.22ms, sum: 430.8sec, count: 1000
+all queries                                                  :
+min:   311.15ms, med:   400.80ms, mean:   430.85ms, max: 1047.71ms, stddev:    83.22ms, sum: 430.8sec, count: 1000
+
+Run complete after 1000 queries with 2 workers (Overall query rate 4.64 queries/sec):
+ClickHouse mean of 5 metrics, all hosts, random 12h0m0s by 1h:
+min:   311.15ms, med:   400.80ms, mean:   430.85ms, max: 1047.71ms, stddev:    83.22ms, sum: 430.8sec, count: 1000
+all queries                                                  :
+min:   311.15ms, med:   400.80ms, mean:   430.85ms, max: 1047.71ms, stddev:    83.22ms, sum: 430.8sec, count: 1000
+wall clock time: 215.580193sec
+Running queries_clickhouse_double-groupby-all_ca592596c73b4ebdfbcb8397c9db91e2_1000_500_123_2020-01-01T00:00:00Z_2020-01-04T00:00:00Z_cpu-only.dat.gz
+After 100 queries with 2 workers:
+Interval query rate: 2.55 queries/sec	Overall query rate: 2.55 queries/sec
+ClickHouse mean of 10 metrics, all hosts, random 12h0m0s by 1h:
+min:   637.25ms, med:   730.56ms, mean:   782.07ms, max: 1168.51ms, stddev:   136.71ms, sum:  78.2sec, count: 100
+all queries                                                   :
+min:   637.25ms, med:   730.56ms, mean:   782.07ms, max: 1168.51ms, stddev:   136.71ms, sum:  78.2sec, count: 100
+
+After 200 queries with 2 workers:
+Interval query rate: 2.52 queries/sec	Overall query rate: 2.53 queries/sec
+ClickHouse mean of 10 metrics, all hosts, random 12h0m0s by 1h:
+min:   630.02ms, med:   730.94ms, mean:   787.73ms, max: 1198.72ms, stddev:   141.03ms, sum: 157.5sec, count: 200
+all queries                                                   :
+min:   630.02ms, med:   730.94ms, mean:   787.73ms, max: 1198.72ms, stddev:   141.03ms, sum: 157.5sec, count: 200
+
+After 300 queries with 2 workers:
+Interval query rate: 2.58 queries/sec	Overall query rate: 2.55 queries/sec
+ClickHouse mean of 10 metrics, all hosts, random 12h0m0s by 1h:
+min:   608.74ms, med:   733.44ms, mean:   782.89ms, max: 1198.72ms, stddev:   136.71ms, sum: 234.9sec, count: 300
+all queries                                                   :
+min:   608.74ms, med:   733.44ms, mean:   782.89ms, max: 1198.72ms, stddev:   136.71ms, sum: 234.9sec, count: 300
+
+After 400 queries with 2 workers:
+Interval query rate: 2.48 queries/sec	Overall query rate: 2.53 queries/sec
+ClickHouse mean of 10 metrics, all hosts, random 12h0m0s by 1h:
+min:   608.74ms, med:   736.48ms, mean:   788.85ms, max: 1198.72ms, stddev:   141.46ms, sum: 315.5sec, count: 400
+all queries                                                   :
+min:   608.74ms, med:   736.48ms, mean:   788.85ms, max: 1198.72ms, stddev:   141.46ms, sum: 315.5sec, count: 400
+
+After 500 queries with 2 workers:
+Interval query rate: 2.52 queries/sec	Overall query rate: 2.53 queries/sec
+ClickHouse mean of 10 metrics, all hosts, random 12h0m0s by 1h:
+min:   608.74ms, med:   734.01ms, mean:   790.99ms, max: 1262.46ms, stddev:   143.94ms, sum: 395.5sec, count: 500
+all queries                                                   :
+min:   608.74ms, med:   734.01ms, mean:   790.99ms, max: 1262.46ms, stddev:   143.94ms, sum: 395.5sec, count: 500
+
+After 600 queries with 2 workers:
+Interval query rate: 2.48 queries/sec	Overall query rate: 2.52 queries/sec
+ClickHouse mean of 10 metrics, all hosts, random 12h0m0s by 1h:
+min:   608.74ms, med:   733.31ms, mean:   792.65ms, max: 1262.46ms, stddev:   145.69ms, sum: 475.6sec, count: 600
+all queries                                                   :
+min:   608.74ms, med:   733.31ms, mean:   792.65ms, max: 1262.46ms, stddev:   145.69ms, sum: 475.6sec, count: 600
+
+After 700 queries with 2 workers:
+Interval query rate: 2.56 queries/sec	Overall query rate: 2.53 queries/sec
+ClickHouse mean of 10 metrics, all hosts, random 12h0m0s by 1h:
+min:   608.74ms, med:   733.44ms, mean:   791.17ms, max: 1262.46ms, stddev:   144.29ms, sum: 553.8sec, count: 700
+all queries                                                   :
+min:   608.74ms, med:   733.44ms, mean:   791.17ms, max: 1262.46ms, stddev:   144.29ms, sum: 553.8sec, count: 700
+
+After 800 queries with 2 workers:
+Interval query rate: 2.50 queries/sec	Overall query rate: 2.52 queries/sec
+ClickHouse mean of 10 metrics, all hosts, random 12h0m0s by 1h:
+min:   608.74ms, med:   734.62ms, mean:   792.39ms, max: 1262.46ms, stddev:   144.84ms, sum: 633.9sec, count: 800
+all queries                                                   :
+min:   608.74ms, med:   734.62ms, mean:   792.39ms, max: 1262.46ms, stddev:   144.84ms, sum: 633.9sec, count: 800
+
+After 900 queries with 2 workers:
+Interval query rate: 2.53 queries/sec	Overall query rate: 2.52 queries/sec
+ClickHouse mean of 10 metrics, all hosts, random 12h0m0s by 1h:
+min:   608.74ms, med:   735.49ms, mean:   791.70ms, max: 1262.46ms, stddev:   143.65ms, sum: 712.5sec, count: 900
+all queries                                                   :
+min:   608.74ms, med:   735.49ms, mean:   791.70ms, max: 1262.46ms, stddev:   143.65ms, sum: 712.5sec, count: 900
+
+After 1000 queries with 2 workers:
+Interval query rate: 2.55 queries/sec	Overall query rate: 2.53 queries/sec
+ClickHouse mean of 10 metrics, all hosts, random 12h0m0s by 1h:
+min:   608.74ms, med:   735.84ms, mean:   791.28ms, max: 1262.46ms, stddev:   143.74ms, sum: 791.3sec, count: 1000
+all queries                                                   :
+min:   608.74ms, med:   735.84ms, mean:   791.28ms, max: 1262.46ms, stddev:   143.74ms, sum: 791.3sec, count: 1000
+
+Run complete after 1000 queries with 2 workers (Overall query rate 2.53 queries/sec):
+ClickHouse mean of 10 metrics, all hosts, random 12h0m0s by 1h:
+min:   608.74ms, med:   735.84ms, mean:   791.28ms, max: 1262.46ms, stddev:   143.74ms, sum: 791.3sec, count: 1000
+all queries                                                   :
+min:   608.74ms, med:   735.84ms, mean:   791.28ms, max: 1262.46ms, stddev:   143.74ms, sum: 791.3sec, count: 1000
+wall clock time: 395.837674sec
+Running queries_clickhouse_groupby-orderby-limit_ca592596c73b4ebdfbcb8397c9db91e2_1000_500_123_2020-01-01T00:00:00Z_2020-01-04T00:00:00Z_cpu-only.dat.gz
+After 100 queries with 2 workers:
+Interval query rate: 12.51 queries/sec	Overall query rate: 12.51 queries/sec
+ClickHouse max cpu over last 5 min-intervals (random end):
+min:    59.60ms, med:   156.90ms, mean:   158.63ms, max:  292.24ms, stddev:    57.89ms, sum:  15.9sec, count: 100
+all queries                                              :
+min:    59.60ms, med:   156.90ms, mean:   158.63ms, max:  292.24ms, stddev:    57.89ms, sum:  15.9sec, count: 100
+
+After 200 queries with 2 workers:
+Interval query rate: 12.58 queries/sec	Overall query rate: 12.54 queries/sec
+ClickHouse max cpu over last 5 min-intervals (random end):
+min:    59.60ms, med:   158.83ms, mean:   159.19ms, max:  310.85ms, stddev:    57.95ms, sum:  31.8sec, count: 200
+all queries                                              :
+min:    59.60ms, med:   158.83ms, mean:   159.19ms, max:  310.85ms, stddev:    57.95ms, sum:  31.8sec, count: 200
+
+After 300 queries with 2 workers:
+Interval query rate: 12.36 queries/sec	Overall query rate: 12.48 queries/sec
+ClickHouse max cpu over last 5 min-intervals (random end):
+min:    58.92ms, med:   161.96ms, mean:   160.13ms, max:  310.85ms, stddev:    57.64ms, sum:  48.0sec, count: 300
+all queries                                              :
+min:    58.92ms, med:   161.96ms, mean:   160.13ms, max:  310.85ms, stddev:    57.64ms, sum:  48.0sec, count: 300
+
+After 400 queries with 2 workers:
+Interval query rate: 12.50 queries/sec	Overall query rate: 12.49 queries/sec
+ClickHouse max cpu over last 5 min-intervals (random end):
+min:    57.01ms, med:   161.80ms, mean:   159.82ms, max:  310.85ms, stddev:    57.79ms, sum:  63.9sec, count: 400
+all queries                                              :
+min:    57.01ms, med:   161.80ms, mean:   159.82ms, max:  310.85ms, stddev:    57.79ms, sum:  63.9sec, count: 400
+
+After 500 queries with 2 workers:
+Interval query rate: 12.67 queries/sec	Overall query rate: 12.52 queries/sec
+ClickHouse max cpu over last 5 min-intervals (random end):
+min:    57.01ms, med:   161.80ms, mean:   159.38ms, max:  310.85ms, stddev:    56.66ms, sum:  79.7sec, count: 500
+all queries                                              :
+min:    57.01ms, med:   161.80ms, mean:   159.38ms, max:  310.85ms, stddev:    56.66ms, sum:  79.7sec, count: 500
+
+After 600 queries with 2 workers:
+Interval query rate: 12.90 queries/sec	Overall query rate: 12.58 queries/sec
+ClickHouse max cpu over last 5 min-intervals (random end):
+min:    50.23ms, med:   158.83ms, mean:   158.68ms, max:  341.36ms, stddev:    56.80ms, sum:  95.2sec, count: 600
+all queries                                              :
+min:    50.23ms, med:   158.83ms, mean:   158.68ms, max:  341.36ms, stddev:    56.80ms, sum:  95.2sec, count: 600
+
+After 700 queries with 2 workers:
+Interval query rate: 12.78 queries/sec	Overall query rate: 12.61 queries/sec
+ClickHouse max cpu over last 5 min-intervals (random end):
+min:    50.23ms, med:   159.41ms, mean:   158.47ms, max:  341.36ms, stddev:    57.62ms, sum: 110.9sec, count: 700
+all queries                                              :
+min:    50.23ms, med:   159.41ms, mean:   158.47ms, max:  341.36ms, stddev:    57.62ms, sum: 110.9sec, count: 700
+
+After 800 queries with 2 workers:
+Interval query rate: 12.95 queries/sec	Overall query rate: 12.65 queries/sec
+ClickHouse max cpu over last 5 min-intervals (random end):
+min:    50.23ms, med:   156.90ms, mean:   157.91ms, max:  341.36ms, stddev:    57.24ms, sum: 126.3sec, count: 800
+all queries                                              :
+min:    50.23ms, med:   156.90ms, mean:   157.91ms, max:  341.36ms, stddev:    57.24ms, sum: 126.3sec, count: 800
+
+After 900 queries with 2 workers:
+Interval query rate: 12.28 queries/sec	Overall query rate: 12.61 queries/sec
+ClickHouse max cpu over last 5 min-intervals (random end):
+min:    50.23ms, med:   159.74ms, mean:   158.56ms, max:  341.36ms, stddev:    56.77ms, sum: 142.7sec, count: 900
+all queries                                              :
+min:    50.23ms, med:   159.74ms, mean:   158.56ms, max:  341.36ms, stddev:    56.77ms, sum: 142.7sec, count: 900
+
+After 1000 queries with 2 workers:
+Interval query rate: 12.50 queries/sec	Overall query rate: 12.60 queries/sec
+ClickHouse max cpu over last 5 min-intervals (random end):
+min:    50.23ms, med:   159.62ms, mean:   158.63ms, max:  341.36ms, stddev:    55.98ms, sum: 158.6sec, count: 1000
+all queries                                              :
+min:    50.23ms, med:   159.62ms, mean:   158.63ms, max:  341.36ms, stddev:    55.98ms, sum: 158.6sec, count: 1000
+
+Run complete after 1000 queries with 2 workers (Overall query rate 12.59 queries/sec):
+ClickHouse max cpu over last 5 min-intervals (random end):
+min:    50.23ms, med:   159.62ms, mean:   158.63ms, max:  341.36ms, stddev:    55.98ms, sum: 158.6sec, count: 1000
+all queries                                              :
+min:    50.23ms, med:   159.62ms, mean:   158.63ms, max:  341.36ms, stddev:    55.98ms, sum: 158.6sec, count: 1000
+wall clock time: 79.442524sec
+Running queries_clickhouse_high-cpu-1_ca592596c73b4ebdfbcb8397c9db91e2_1000_500_123_2020-01-01T00:00:00Z_2020-01-04T00:00:00Z_cpu-only.dat.gz
+After 100 queries with 2 workers:
+Interval query rate: 193.11 queries/sec	Overall query rate: 193.11 queries/sec
+ClickHouse CPU over threshold, 1 host(s):
+min:     5.14ms, med:     9.84ms, mean:    10.27ms, max:   21.41ms, stddev:     3.15ms, sum:   1.0sec, count: 100
+all queries                             :
+min:     5.14ms, med:     9.84ms, mean:    10.27ms, max:   21.41ms, stddev:     3.15ms, sum:   1.0sec, count: 100
+
+After 200 queries with 2 workers:
+Interval query rate: 187.91 queries/sec	Overall query rate: 190.48 queries/sec
+ClickHouse CPU over threshold, 1 host(s):
+min:     5.14ms, med:    10.08ms, mean:    10.46ms, max:   25.63ms, stddev:     3.34ms, sum:   2.1sec, count: 200
+all queries                             :
+min:     5.14ms, med:    10.08ms, mean:    10.46ms, max:   25.63ms, stddev:     3.34ms, sum:   2.1sec, count: 200
+
+After 300 queries with 2 workers:
+Interval query rate: 180.89 queries/sec	Overall query rate: 187.17 queries/sec
+ClickHouse CPU over threshold, 1 host(s):
+min:     5.07ms, med:    10.19ms, mean:    10.67ms, max:   31.28ms, stddev:     3.54ms, sum:   3.2sec, count: 300
+all queries                             :
+min:     5.07ms, med:    10.19ms, mean:    10.67ms, max:   31.28ms, stddev:     3.54ms, sum:   3.2sec, count: 300
+
+After 400 queries with 2 workers:
+Interval query rate: 185.97 queries/sec	Overall query rate: 186.87 queries/sec
+ClickHouse CPU over threshold, 1 host(s):
+min:     5.07ms, med:    10.20ms, mean:    10.68ms, max:   31.28ms, stddev:     3.53ms, sum:   4.3sec, count: 400
+all queries                             :
+min:     5.07ms, med:    10.20ms, mean:    10.68ms, max:   31.28ms, stddev:     3.53ms, sum:   4.3sec, count: 400
+
+After 500 queries with 2 workers:
+Interval query rate: 177.63 queries/sec	Overall query rate: 184.95 queries/sec
+ClickHouse CPU over threshold, 1 host(s):
+min:     4.89ms, med:    10.24ms, mean:    10.79ms, max:   31.28ms, stddev:     3.66ms, sum:   5.4sec, count: 500
+all queries                             :
+min:     4.89ms, med:    10.24ms, mean:    10.79ms, max:   31.28ms, stddev:     3.66ms, sum:   5.4sec, count: 500
+
+After 600 queries with 2 workers:
+Interval query rate: 191.51 queries/sec	Overall query rate: 186.01 queries/sec
+ClickHouse CPU over threshold, 1 host(s):
+min:     4.89ms, med:    10.31ms, mean:    10.74ms, max:   31.28ms, stddev:     3.59ms, sum:   6.4sec, count: 600
+all queries                             :
+min:     4.89ms, med:    10.31ms, mean:    10.74ms, max:   31.28ms, stddev:     3.59ms, sum:   6.4sec, count: 600
+
+After 700 queries with 2 workers:
+Interval query rate: 179.13 queries/sec	Overall query rate: 184.99 queries/sec
+ClickHouse CPU over threshold, 1 host(s):
+min:     4.89ms, med:    10.31ms, mean:    10.80ms, max:   31.28ms, stddev:     3.62ms, sum:   7.6sec, count: 700
+all queries                             :
+min:     4.89ms, med:    10.31ms, mean:    10.80ms, max:   31.28ms, stddev:     3.62ms, sum:   7.6sec, count: 700
+
+After 800 queries with 2 workers:
+Interval query rate: 197.39 queries/sec	Overall query rate: 186.46 queries/sec
+ClickHouse CPU over threshold, 1 host(s):
+min:     4.89ms, med:    10.24ms, mean:    10.71ms, max:   31.28ms, stddev:     3.57ms, sum:   8.6sec, count: 800
+all queries                             :
+min:     4.89ms, med:    10.24ms, mean:    10.71ms, max:   31.28ms, stddev:     3.57ms, sum:   8.6sec, count: 800
+
+After 900 queries with 2 workers:
+Interval query rate: 185.14 queries/sec	Overall query rate: 186.31 queries/sec
+ClickHouse CPU over threshold, 1 host(s):
+min:     4.78ms, med:    10.23ms, mean:    10.71ms, max:   31.28ms, stddev:     3.62ms, sum:   9.6sec, count: 900
+all queries                             :
+min:     4.78ms, med:    10.23ms, mean:    10.71ms, max:   31.28ms, stddev:     3.62ms, sum:   9.6sec, count: 900
+
+After 1000 queries with 2 workers:
+Interval query rate: 182.62 queries/sec	Overall query rate: 185.93 queries/sec
+ClickHouse CPU over threshold, 1 host(s):
+min:     4.78ms, med:    10.27ms, mean:    10.74ms, max:   31.28ms, stddev:     3.62ms, sum:  10.7sec, count: 1000
+all queries                             :
+min:     4.78ms, med:    10.27ms, mean:    10.74ms, max:   31.28ms, stddev:     3.62ms, sum:  10.7sec, count: 1000
+
+Run complete after 1000 queries with 2 workers (Overall query rate 185.51 queries/sec):
+ClickHouse CPU over threshold, 1 host(s):
+min:     4.78ms, med:    10.27ms, mean:    10.74ms, max:   31.28ms, stddev:     3.62ms, sum:  10.7sec, count: 1000
+all queries                             :
+min:     4.78ms, med:    10.27ms, mean:    10.74ms, max:   31.28ms, stddev:     3.62ms, sum:  10.7sec, count: 1000
+wall clock time: 5.403922sec
+Running queries_clickhouse_high-cpu-all_ca592596c73b4ebdfbcb8397c9db91e2_1000_500_123_2020-01-01T00:00:00Z_2020-01-04T00:00:00Z_cpu-only.dat.gz
+After 100 queries with 2 workers:
+Interval query rate: 1.67 queries/sec	Overall query rate: 1.67 queries/sec
+ClickHouse CPU over threshold, all hosts:
+min:   973.28ms, med:  1184.70ms, mean:  1189.13ms, max: 1459.13ms, stddev:    95.83ms, sum: 118.9sec, count: 100
+all queries                             :
+min:   973.28ms, med:  1184.70ms, mean:  1189.13ms, max: 1459.13ms, stddev:    95.83ms, sum: 118.9sec, count: 100
+
+After 200 queries with 2 workers:
+Interval query rate: 1.69 queries/sec	Overall query rate: 1.68 queries/sec
+ClickHouse CPU over threshold, all hosts:
+min:   968.45ms, med:  1182.02ms, mean:  1188.17ms, max: 1559.68ms, stddev:    92.95ms, sum: 237.6sec, count: 200
+all queries                             :
+min:   968.45ms, med:  1182.02ms, mean:  1188.17ms, max: 1559.68ms, stddev:    92.95ms, sum: 237.6sec, count: 200
+
+After 300 queries with 2 workers:
+Interval query rate: 1.69 queries/sec	Overall query rate: 1.68 queries/sec
+ClickHouse CPU over threshold, all hosts:
+min:   968.45ms, med:  1180.03ms, mean:  1187.09ms, max: 1559.68ms, stddev:    94.06ms, sum: 356.1sec, count: 300
+all queries                             :
+min:   968.45ms, med:  1180.03ms, mean:  1187.09ms, max: 1559.68ms, stddev:    94.06ms, sum: 356.1sec, count: 300
+
+After 400 queries with 2 workers:
+Interval query rate: 1.67 queries/sec	Overall query rate: 1.68 queries/sec
+ClickHouse CPU over threshold, all hosts:
+min:   968.45ms, med:  1183.49ms, mean:  1190.63ms, max: 1559.68ms, stddev:    93.63ms, sum: 476.3sec, count: 400
+all queries                             :
+min:   968.45ms, med:  1183.49ms, mean:  1190.63ms, max: 1559.68ms, stddev:    93.63ms, sum: 476.3sec, count: 400
+
+After 500 queries with 2 workers:
+Interval query rate: 1.67 queries/sec	Overall query rate: 1.68 queries/sec
+ClickHouse CPU over threshold, all hosts:
+min:   968.45ms, med:  1185.98ms, mean:  1192.51ms, max: 1559.68ms, stddev:    95.59ms, sum: 596.3sec, count: 500
+all queries                             :
+min:   968.45ms, med:  1185.98ms, mean:  1192.51ms, max: 1559.68ms, stddev:    95.59ms, sum: 596.3sec, count: 500
+
+After 600 queries with 2 workers:
+Interval query rate: 1.66 queries/sec	Overall query rate: 1.67 queries/sec
+ClickHouse CPU over threshold, all hosts:
+min:   968.45ms, med:  1186.43ms, mean:  1194.47ms, max: 1559.68ms, stddev:    95.49ms, sum: 716.7sec, count: 600
+all queries                             :
+min:   968.45ms, med:  1186.43ms, mean:  1194.47ms, max: 1559.68ms, stddev:    95.49ms, sum: 716.7sec, count: 600
+
+After 700 queries with 2 workers:
+Interval query rate: 1.68 queries/sec	Overall query rate: 1.67 queries/sec
+ClickHouse CPU over threshold, all hosts:
+min:   881.57ms, med:  1184.38ms, mean:  1193.38ms, max: 1559.68ms, stddev:    95.37ms, sum: 835.4sec, count: 700
+all queries                             :
+min:   881.57ms, med:  1184.38ms, mean:  1193.38ms, max: 1559.68ms, stddev:    95.37ms, sum: 835.4sec, count: 700
+
+After 800 queries with 2 workers:
+Interval query rate: 1.66 queries/sec	Overall query rate: 1.67 queries/sec
+ClickHouse CPU over threshold, all hosts:
+min:   881.57ms, med:  1186.11ms, mean:  1194.19ms, max: 1559.68ms, stddev:    94.82ms, sum: 955.3sec, count: 800
+all queries                             :
+min:   881.57ms, med:  1186.11ms, mean:  1194.19ms, max: 1559.68ms, stddev:    94.82ms, sum: 955.3sec, count: 800
+
+After 900 queries with 2 workers:
+Interval query rate: 1.68 queries/sec	Overall query rate: 1.67 queries/sec
+ClickHouse CPU over threshold, all hosts:
+min:   881.57ms, med:  1186.11ms, mean:  1193.76ms, max: 1559.68ms, stddev:    93.67ms, sum: 1074.4sec, count: 900
+all queries                             :
+min:   881.57ms, med:  1186.11ms, mean:  1193.76ms, max: 1559.68ms, stddev:    93.67ms, sum: 1074.4sec, count: 900
+
+After 1000 queries with 2 workers:
+Interval query rate: 1.69 queries/sec	Overall query rate: 1.68 queries/sec
+ClickHouse CPU over threshold, all hosts:
+min:   881.57ms, med:  1185.98ms, mean:  1193.22ms, max: 1559.68ms, stddev:    95.24ms, sum: 1193.2sec, count: 1000
+all queries                             :
+min:   881.57ms, med:  1185.98ms, mean:  1193.22ms, max: 1559.68ms, stddev:    95.24ms, sum: 1193.2sec, count: 1000
+
+Run complete after 1000 queries with 2 workers (Overall query rate 1.68 queries/sec):
+ClickHouse CPU over threshold, all hosts:
+min:   881.57ms, med:  1185.98ms, mean:  1193.22ms, max: 1559.68ms, stddev:    95.24ms, sum: 1193.2sec, count: 1000
+all queries                             :
+min:   881.57ms, med:  1185.98ms, mean:  1193.22ms, max: 1559.68ms, stddev:    95.24ms, sum: 1193.2sec, count: 1000
+wall clock time: 596.906254sec
+Running queries_clickhouse_lastpoint_ca592596c73b4ebdfbcb8397c9db91e2_1000_500_123_2020-01-01T00:00:00Z_2020-01-04T00:00:00Z_cpu-only.dat.gz
+After 100 queries with 2 workers:
+Interval query rate: 3.90 queries/sec	Overall query rate: 3.90 queries/sec
+ClickHouse last row per host:
+min:   438.26ms, med:   509.02ms, mean:   511.09ms, max:  609.25ms, stddev:    31.59ms, sum:  51.1sec, count: 100
+all queries                 :
+min:   438.26ms, med:   509.02ms, mean:   511.09ms, max:  609.25ms, stddev:    31.59ms, sum:  51.1sec, count: 100
+
+After 200 queries with 2 workers:
+Interval query rate: 3.92 queries/sec	Overall query rate: 3.91 queries/sec
+ClickHouse last row per host:
+min:   438.26ms, med:   508.14ms, mean:   510.72ms, max:  609.25ms, stddev:    32.90ms, sum: 102.1sec, count: 200
+all queries                 :
+min:   438.26ms, med:   508.14ms, mean:   510.72ms, max:  609.25ms, stddev:    32.90ms, sum: 102.1sec, count: 200
+
+After 300 queries with 2 workers:
+Interval query rate: 3.91 queries/sec	Overall query rate: 3.91 queries/sec
+ClickHouse last row per host:
+min:   438.26ms, med:   507.15ms, mean:   510.65ms, max:  609.25ms, stddev:    32.45ms, sum: 153.2sec, count: 300
+all queries                 :
+min:   438.26ms, med:   507.15ms, mean:   510.65ms, max:  609.25ms, stddev:    32.45ms, sum: 153.2sec, count: 300
+
+After 400 queries with 2 workers:
+Interval query rate: 3.94 queries/sec	Overall query rate: 3.92 queries/sec
+ClickHouse last row per host:
+min:   426.50ms, med:   508.01ms, mean:   510.18ms, max:  609.25ms, stddev:    33.01ms, sum: 204.1sec, count: 400
+all queries                 :
+min:   426.50ms, med:   508.01ms, mean:   510.18ms, max:  609.25ms, stddev:    33.01ms, sum: 204.1sec, count: 400
+
+After 500 queries with 2 workers:
+Interval query rate: 3.88 queries/sec	Overall query rate: 3.91 queries/sec
+ClickHouse last row per host:
+min:   426.50ms, med:   508.01ms, mean:   510.75ms, max:  640.00ms, stddev:    33.66ms, sum: 255.4sec, count: 500
+all queries                 :
+min:   426.50ms, med:   508.01ms, mean:   510.75ms, max:  640.00ms, stddev:    33.66ms, sum: 255.4sec, count: 500
+
+After 600 queries with 2 workers:
+Interval query rate: 3.91 queries/sec	Overall query rate: 3.91 queries/sec
+ClickHouse last row per host:
+min:   422.21ms, med:   508.11ms, mean:   510.84ms, max:  640.00ms, stddev:    32.89ms, sum: 306.5sec, count: 600
+all queries                 :
+min:   422.21ms, med:   508.11ms, mean:   510.84ms, max:  640.00ms, stddev:    32.89ms, sum: 306.5sec, count: 600
+
+After 700 queries with 2 workers:
+Interval query rate: 3.92 queries/sec	Overall query rate: 3.91 queries/sec
+ClickHouse last row per host:
+min:   422.21ms, med:   508.14ms, mean:   510.86ms, max:  640.00ms, stddev:    32.53ms, sum: 357.6sec, count: 700
+all queries                 :
+min:   422.21ms, med:   508.14ms, mean:   510.86ms, max:  640.00ms, stddev:    32.53ms, sum: 357.6sec, count: 700
+
+After 800 queries with 2 workers:
+Interval query rate: 3.92 queries/sec	Overall query rate: 3.91 queries/sec
+ClickHouse last row per host:
+min:   422.21ms, med:   508.96ms, mean:   510.83ms, max:  640.00ms, stddev:    32.27ms, sum: 408.7sec, count: 800
+all queries                 :
+min:   422.21ms, med:   508.96ms, mean:   510.83ms, max:  640.00ms, stddev:    32.27ms, sum: 408.7sec, count: 800
+
+After 900 queries with 2 workers:
+Interval query rate: 3.93 queries/sec	Overall query rate: 3.91 queries/sec
+ClickHouse last row per host:
+min:   422.21ms, med:   509.07ms, mean:   510.66ms, max:  640.00ms, stddev:    31.72ms, sum: 459.6sec, count: 900
+all queries                 :
+min:   422.21ms, med:   509.07ms, mean:   510.66ms, max:  640.00ms, stddev:    31.72ms, sum: 459.6sec, count: 900
+
+After 1000 queries with 2 workers:
+Interval query rate: 3.94 queries/sec	Overall query rate: 3.92 queries/sec
+ClickHouse last row per host:
+min:   422.21ms, med:   508.96ms, mean:   510.46ms, max:  640.00ms, stddev:    31.85ms, sum: 510.5sec, count: 1000
+all queries                 :
+min:   422.21ms, med:   508.96ms, mean:   510.46ms, max:  640.00ms, stddev:    31.85ms, sum: 510.5sec, count: 1000
+
+Run complete after 1000 queries with 2 workers (Overall query rate 3.92 queries/sec):
+ClickHouse last row per host:
+min:   422.21ms, med:   508.96ms, mean:   510.46ms, max:  640.00ms, stddev:    31.85ms, sum: 510.5sec, count: 1000
+all queries                 :
+min:   422.21ms, med:   508.96ms, mean:   510.46ms, max:  640.00ms, stddev:    31.85ms, sum: 510.5sec, count: 1000
+wall clock time: 255.393170sec
+Running queries_clickhouse_single-groupby-1-1-12_ca592596c73b4ebdfbcb8397c9db91e2_1000_500_123_2020-01-01T00:00:00Z_2020-01-04T00:00:00Z_cpu-only.dat.gz
+After 100 queries with 2 workers:
+Interval query rate: 295.80 queries/sec	Overall query rate: 295.80 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     5.18ms, med:     6.44ms, mean:     6.69ms, max:   10.57ms, stddev:     1.07ms, sum:   0.7sec, count: 100
+all queries                                                        :
+min:     5.18ms, med:     6.44ms, mean:     6.69ms, max:   10.57ms, stddev:     1.07ms, sum:   0.7sec, count: 100
+
+After 200 queries with 2 workers:
+Interval query rate: 299.68 queries/sec	Overall query rate: 297.73 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     5.11ms, med:     6.46ms, mean:     6.67ms, max:   12.45ms, stddev:     1.08ms, sum:   1.3sec, count: 200
+all queries                                                        :
+min:     5.11ms, med:     6.46ms, mean:     6.67ms, max:   12.45ms, stddev:     1.08ms, sum:   1.3sec, count: 200
+
+After 300 queries with 2 workers:
+Interval query rate: 293.86 queries/sec	Overall query rate: 296.43 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     4.91ms, med:     6.52ms, mean:     6.71ms, max:   12.45ms, stddev:     1.06ms, sum:   2.0sec, count: 300
+all queries                                                        :
+min:     4.91ms, med:     6.52ms, mean:     6.71ms, max:   12.45ms, stddev:     1.06ms, sum:   2.0sec, count: 300
+
+After 400 queries with 2 workers:
+Interval query rate: 282.77 queries/sec	Overall query rate: 292.89 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     4.91ms, med:     6.58ms, mean:     6.81ms, max:   13.33ms, stddev:     1.23ms, sum:   2.7sec, count: 400
+all queries                                                        :
+min:     4.91ms, med:     6.58ms, mean:     6.81ms, max:   13.33ms, stddev:     1.23ms, sum:   2.7sec, count: 400
+
+After 500 queries with 2 workers:
+Interval query rate: 293.28 queries/sec	Overall query rate: 292.97 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     4.91ms, med:     6.56ms, mean:     6.81ms, max:   14.20ms, stddev:     1.25ms, sum:   3.4sec, count: 500
+all queries                                                        :
+min:     4.91ms, med:     6.56ms, mean:     6.81ms, max:   14.20ms, stddev:     1.25ms, sum:   3.4sec, count: 500
+
+After 600 queries with 2 workers:
+Interval query rate: 297.46 queries/sec	Overall query rate: 293.71 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     4.91ms, med:     6.55ms, mean:     6.79ms, max:   14.20ms, stddev:     1.24ms, sum:   4.1sec, count: 600
+all queries                                                        :
+min:     4.91ms, med:     6.55ms, mean:     6.79ms, max:   14.20ms, stddev:     1.24ms, sum:   4.1sec, count: 600
+
+After 700 queries with 2 workers:
+Interval query rate: 303.12 queries/sec	Overall query rate: 295.02 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     4.91ms, med:     6.53ms, mean:     6.76ms, max:   14.20ms, stddev:     1.21ms, sum:   4.7sec, count: 700
+all queries                                                        :
+min:     4.91ms, med:     6.53ms, mean:     6.76ms, max:   14.20ms, stddev:     1.21ms, sum:   4.7sec, count: 700
+
+After 800 queries with 2 workers:
+Interval query rate: 303.83 queries/sec	Overall query rate: 296.09 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     4.91ms, med:     6.52ms, mean:     6.74ms, max:   15.19ms, stddev:     1.24ms, sum:   5.4sec, count: 800
+all queries                                                        :
+min:     4.91ms, med:     6.52ms, mean:     6.74ms, max:   15.19ms, stddev:     1.24ms, sum:   5.4sec, count: 800
+
+After 900 queries with 2 workers:
+Interval query rate: 303.25 queries/sec	Overall query rate: 296.87 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     4.91ms, med:     6.51ms, mean:     6.72ms, max:   15.19ms, stddev:     1.22ms, sum:   6.1sec, count: 900
+all queries                                                        :
+min:     4.91ms, med:     6.51ms, mean:     6.72ms, max:   15.19ms, stddev:     1.22ms, sum:   6.1sec, count: 900
+
+After 1000 queries with 2 workers:
+Interval query rate: 299.99 queries/sec	Overall query rate: 297.18 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     4.91ms, med:     6.51ms, mean:     6.72ms, max:   15.19ms, stddev:     1.22ms, sum:   6.7sec, count: 1000
+all queries                                                        :
+min:     4.91ms, med:     6.51ms, mean:     6.72ms, max:   15.19ms, stddev:     1.22ms, sum:   6.7sec, count: 1000
+
+Run complete after 1000 queries with 2 workers (Overall query rate 296.61 queries/sec):
+ClickHouse 1 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     4.91ms, med:     6.51ms, mean:     6.72ms, max:   15.19ms, stddev:     1.22ms, sum:   6.7sec, count: 1000
+all queries                                                        :
+min:     4.91ms, med:     6.51ms, mean:     6.72ms, max:   15.19ms, stddev:     1.22ms, sum:   6.7sec, count: 1000
+wall clock time: 3.378973sec
+Running queries_clickhouse_single-groupby-1-1-1_ca592596c73b4ebdfbcb8397c9db91e2_1000_500_123_2020-01-01T00:00:00Z_2020-01-04T00:00:00Z_cpu-only.dat.gz
+After 100 queries with 2 workers:
+Interval query rate: 326.20 queries/sec	Overall query rate: 326.20 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     4.93ms, med:     5.88ms, mean:     6.01ms, max:    9.07ms, stddev:     0.69ms, sum:   0.6sec, count: 100
+all queries                                                       :
+min:     4.93ms, med:     5.88ms, mean:     6.01ms, max:    9.07ms, stddev:     0.69ms, sum:   0.6sec, count: 100
+
+After 200 queries with 2 workers:
+Interval query rate: 331.82 queries/sec	Overall query rate: 328.99 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     4.57ms, med:     5.90ms, mean:     6.01ms, max:   10.56ms, stddev:     0.82ms, sum:   1.2sec, count: 200
+all queries                                                       :
+min:     4.57ms, med:     5.90ms, mean:     6.01ms, max:   10.56ms, stddev:     0.82ms, sum:   1.2sec, count: 200
+
+After 300 queries with 2 workers:
+Interval query rate: 329.47 queries/sec	Overall query rate: 329.15 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     4.57ms, med:     5.91ms, mean:     6.02ms, max:   11.37ms, stddev:     0.89ms, sum:   1.8sec, count: 300
+all queries                                                       :
+min:     4.57ms, med:     5.91ms, mean:     6.02ms, max:   11.37ms, stddev:     0.89ms, sum:   1.8sec, count: 300
+
+After 400 queries with 2 workers:
+Interval query rate: 343.28 queries/sec	Overall query rate: 332.57 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     4.57ms, med:     5.85ms, mean:     5.98ms, max:   11.37ms, stddev:     0.89ms, sum:   2.4sec, count: 400
+all queries                                                       :
+min:     4.57ms, med:     5.85ms, mean:     5.98ms, max:   11.37ms, stddev:     0.89ms, sum:   2.4sec, count: 400
+
+After 500 queries with 2 workers:
+Interval query rate: 334.66 queries/sec	Overall query rate: 332.99 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     4.57ms, med:     5.84ms, mean:     5.97ms, max:   11.70ms, stddev:     0.92ms, sum:   3.0sec, count: 500
+all queries                                                       :
+min:     4.57ms, med:     5.84ms, mean:     5.97ms, max:   11.70ms, stddev:     0.92ms, sum:   3.0sec, count: 500
+
+After 600 queries with 2 workers:
+Interval query rate: 340.34 queries/sec	Overall query rate: 334.19 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     4.57ms, med:     5.83ms, mean:     5.96ms, max:   11.70ms, stddev:     0.90ms, sum:   3.6sec, count: 600
+all queries                                                       :
+min:     4.57ms, med:     5.83ms, mean:     5.96ms, max:   11.70ms, stddev:     0.90ms, sum:   3.6sec, count: 600
+
+After 700 queries with 2 workers:
+Interval query rate: 331.37 queries/sec	Overall query rate: 333.78 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     4.57ms, med:     5.84ms, mean:     5.97ms, max:   11.70ms, stddev:     0.91ms, sum:   4.2sec, count: 700
+all queries                                                       :
+min:     4.57ms, med:     5.84ms, mean:     5.97ms, max:   11.70ms, stddev:     0.91ms, sum:   4.2sec, count: 700
+
+After 800 queries with 2 workers:
+Interval query rate: 338.39 queries/sec	Overall query rate: 334.35 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     4.57ms, med:     5.83ms, mean:     5.96ms, max:   11.70ms, stddev:     0.93ms, sum:   4.8sec, count: 800
+all queries                                                       :
+min:     4.57ms, med:     5.83ms, mean:     5.96ms, max:   11.70ms, stddev:     0.93ms, sum:   4.8sec, count: 800
+
+After 900 queries with 2 workers:
+Interval query rate: 338.51 queries/sec	Overall query rate: 334.81 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     4.57ms, med:     5.83ms, mean:     5.95ms, max:   11.70ms, stddev:     0.91ms, sum:   5.4sec, count: 900
+all queries                                                       :
+min:     4.57ms, med:     5.83ms, mean:     5.95ms, max:   11.70ms, stddev:     0.91ms, sum:   5.4sec, count: 900
+
+After 1000 queries with 2 workers:
+Interval query rate: 330.53 queries/sec	Overall query rate: 334.38 queries/sec
+ClickHouse 1 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     4.57ms, med:     5.83ms, mean:     5.96ms, max:   12.38ms, stddev:     0.94ms, sum:   6.0sec, count: 1000
+all queries                                                       :
+min:     4.57ms, med:     5.83ms, mean:     5.96ms, max:   12.38ms, stddev:     0.94ms, sum:   6.0sec, count: 1000
+
+Run complete after 1000 queries with 2 workers (Overall query rate 333.78 queries/sec):
+ClickHouse 1 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     4.57ms, med:     5.83ms, mean:     5.96ms, max:   12.38ms, stddev:     0.94ms, sum:   6.0sec, count: 1000
+all queries                                                       :
+min:     4.57ms, med:     5.83ms, mean:     5.96ms, max:   12.38ms, stddev:     0.94ms, sum:   6.0sec, count: 1000
+wall clock time: 3.001784sec
+Running queries_clickhouse_single-groupby-1-8-1_ca592596c73b4ebdfbcb8397c9db91e2_1000_500_123_2020-01-01T00:00:00Z_2020-01-04T00:00:00Z_cpu-only.dat.gz
+After 100 queries with 2 workers:
+Interval query rate: 182.48 queries/sec	Overall query rate: 182.48 queries/sec
+ClickHouse 1 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:     7.51ms, med:    10.19ms, mean:    10.82ms, max:   16.56ms, stddev:     2.14ms, sum:   1.1sec, count: 100
+all queries                                                       :
+min:     7.51ms, med:    10.19ms, mean:    10.82ms, max:   16.56ms, stddev:     2.14ms, sum:   1.1sec, count: 100
+
+After 200 queries with 2 workers:
+Interval query rate: 184.42 queries/sec	Overall query rate: 183.44 queries/sec
+ClickHouse 1 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:     7.25ms, med:    10.43ms, mean:    10.82ms, max:   18.85ms, stddev:     2.09ms, sum:   2.2sec, count: 200
+all queries                                                       :
+min:     7.25ms, med:    10.43ms, mean:    10.82ms, max:   18.85ms, stddev:     2.09ms, sum:   2.2sec, count: 200
+
+After 300 queries with 2 workers:
+Interval query rate: 182.17 queries/sec	Overall query rate: 183.02 queries/sec
+ClickHouse 1 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:     7.13ms, med:    10.57ms, mean:    10.87ms, max:   23.79ms, stddev:     2.23ms, sum:   3.3sec, count: 300
+all queries                                                       :
+min:     7.13ms, med:    10.57ms, mean:    10.87ms, max:   23.79ms, stddev:     2.23ms, sum:   3.3sec, count: 300
+
+After 400 queries with 2 workers:
+Interval query rate: 185.64 queries/sec	Overall query rate: 183.67 queries/sec
+ClickHouse 1 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:     7.13ms, med:    10.62ms, mean:    10.86ms, max:   23.79ms, stddev:     2.14ms, sum:   4.3sec, count: 400
+all queries                                                       :
+min:     7.13ms, med:    10.62ms, mean:    10.86ms, max:   23.79ms, stddev:     2.14ms, sum:   4.3sec, count: 400
+
+After 500 queries with 2 workers:
+Interval query rate: 183.84 queries/sec	Overall query rate: 183.70 queries/sec
+ClickHouse 1 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:     7.13ms, med:    10.62ms, mean:    10.85ms, max:   24.07ms, stddev:     2.16ms, sum:   5.4sec, count: 500
+all queries                                                       :
+min:     7.13ms, med:    10.62ms, mean:    10.85ms, max:   24.07ms, stddev:     2.16ms, sum:   5.4sec, count: 500
+
+After 600 queries with 2 workers:
+Interval query rate: 185.06 queries/sec	Overall query rate: 183.93 queries/sec
+ClickHouse 1 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:     7.13ms, med:    10.58ms, mean:    10.85ms, max:   24.07ms, stddev:     2.16ms, sum:   6.5sec, count: 600
+all queries                                                       :
+min:     7.13ms, med:    10.58ms, mean:    10.85ms, max:   24.07ms, stddev:     2.16ms, sum:   6.5sec, count: 600
+
+After 700 queries with 2 workers:
+Interval query rate: 185.01 queries/sec	Overall query rate: 184.08 queries/sec
+ClickHouse 1 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:     7.13ms, med:    10.54ms, mean:    10.84ms, max:   24.07ms, stddev:     2.20ms, sum:   7.6sec, count: 700
+all queries                                                       :
+min:     7.13ms, med:    10.54ms, mean:    10.84ms, max:   24.07ms, stddev:     2.20ms, sum:   7.6sec, count: 700
+
+After 800 queries with 2 workers:
+Interval query rate: 184.84 queries/sec	Overall query rate: 184.17 queries/sec
+ClickHouse 1 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:     7.02ms, med:    10.54ms, mean:    10.84ms, max:   24.07ms, stddev:     2.21ms, sum:   8.7sec, count: 800
+all queries                                                       :
+min:     7.02ms, med:    10.54ms, mean:    10.84ms, max:   24.07ms, stddev:     2.21ms, sum:   8.7sec, count: 800
+
+After 900 queries with 2 workers:
+Interval query rate: 183.54 queries/sec	Overall query rate: 184.10 queries/sec
+ClickHouse 1 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:     7.02ms, med:    10.54ms, mean:    10.85ms, max:   24.07ms, stddev:     2.23ms, sum:   9.8sec, count: 900
+all queries                                                       :
+min:     7.02ms, med:    10.54ms, mean:    10.85ms, max:   24.07ms, stddev:     2.23ms, sum:   9.8sec, count: 900
+
+After 1000 queries with 2 workers:
+Interval query rate: 185.20 queries/sec	Overall query rate: 184.21 queries/sec
+ClickHouse 1 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:     7.02ms, med:    10.54ms, mean:    10.84ms, max:   24.07ms, stddev:     2.21ms, sum:  10.8sec, count: 1000
+all queries                                                       :
+min:     7.02ms, med:    10.54ms, mean:    10.84ms, max:   24.07ms, stddev:     2.21ms, sum:  10.8sec, count: 1000
+
+Run complete after 1000 queries with 2 workers (Overall query rate 183.87 queries/sec):
+ClickHouse 1 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:     7.02ms, med:    10.54ms, mean:    10.84ms, max:   24.07ms, stddev:     2.21ms, sum:  10.8sec, count: 1000
+all queries                                                       :
+min:     7.02ms, med:    10.54ms, mean:    10.84ms, max:   24.07ms, stddev:     2.21ms, sum:  10.8sec, count: 1000
+wall clock time: 5.448955sec
+Running queries_clickhouse_single-groupby-5-1-12_ca592596c73b4ebdfbcb8397c9db91e2_1000_500_123_2020-01-01T00:00:00Z_2020-01-04T00:00:00Z_cpu-only.dat.gz
+After 100 queries with 2 workers:
+Interval query rate: 192.82 queries/sec	Overall query rate: 192.82 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     6.82ms, med:     9.79ms, mean:    10.26ms, max:   16.84ms, stddev:     2.19ms, sum:   1.0sec, count: 100
+all queries                                                        :
+min:     6.82ms, med:     9.79ms, mean:    10.26ms, max:   16.84ms, stddev:     2.19ms, sum:   1.0sec, count: 100
+
+After 200 queries with 2 workers:
+Interval query rate: 200.91 queries/sec	Overall query rate: 196.78 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     6.82ms, med:     9.74ms, mean:    10.08ms, max:   17.95ms, stddev:     2.07ms, sum:   2.0sec, count: 200
+all queries                                                        :
+min:     6.82ms, med:     9.74ms, mean:    10.08ms, max:   17.95ms, stddev:     2.07ms, sum:   2.0sec, count: 200
+
+After 300 queries with 2 workers:
+Interval query rate: 194.90 queries/sec	Overall query rate: 196.15 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     6.82ms, med:     9.81ms, mean:    10.13ms, max:   17.95ms, stddev:     2.06ms, sum:   3.0sec, count: 300
+all queries                                                        :
+min:     6.82ms, med:     9.81ms, mean:    10.13ms, max:   17.95ms, stddev:     2.06ms, sum:   3.0sec, count: 300
+
+After 400 queries with 2 workers:
+Interval query rate: 203.21 queries/sec	Overall query rate: 197.87 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     6.46ms, med:     9.76ms, mean:    10.05ms, max:   18.53ms, stddev:     2.06ms, sum:   4.0sec, count: 400
+all queries                                                        :
+min:     6.46ms, med:     9.76ms, mean:    10.05ms, max:   18.53ms, stddev:     2.06ms, sum:   4.0sec, count: 400
+
+After 500 queries with 2 workers:
+Interval query rate: 199.76 queries/sec	Overall query rate: 198.24 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     6.46ms, med:     9.77ms, mean:    10.06ms, max:   22.96ms, stddev:     2.11ms, sum:   5.0sec, count: 500
+all queries                                                        :
+min:     6.46ms, med:     9.77ms, mean:    10.06ms, max:   22.96ms, stddev:     2.11ms, sum:   5.0sec, count: 500
+
+After 600 queries with 2 workers:
+Interval query rate: 195.48 queries/sec	Overall query rate: 197.78 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     6.46ms, med:     9.79ms, mean:    10.08ms, max:   22.96ms, stddev:     2.12ms, sum:   6.1sec, count: 600
+all queries                                                        :
+min:     6.46ms, med:     9.79ms, mean:    10.08ms, max:   22.96ms, stddev:     2.12ms, sum:   6.1sec, count: 600
+
+After 700 queries with 2 workers:
+Interval query rate: 195.41 queries/sec	Overall query rate: 197.44 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     6.46ms, med:     9.80ms, mean:    10.11ms, max:   22.96ms, stddev:     2.14ms, sum:   7.1sec, count: 700
+all queries                                                        :
+min:     6.46ms, med:     9.80ms, mean:    10.11ms, max:   22.96ms, stddev:     2.14ms, sum:   7.1sec, count: 700
+
+After 800 queries with 2 workers:
+Interval query rate: 198.61 queries/sec	Overall query rate: 197.58 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     6.46ms, med:     9.78ms, mean:    10.09ms, max:   22.96ms, stddev:     2.12ms, sum:   8.1sec, count: 800
+all queries                                                        :
+min:     6.46ms, med:     9.78ms, mean:    10.09ms, max:   22.96ms, stddev:     2.12ms, sum:   8.1sec, count: 800
+
+After 900 queries with 2 workers:
+Interval query rate: 197.71 queries/sec	Overall query rate: 197.60 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     6.46ms, med:     9.76ms, mean:    10.09ms, max:   22.96ms, stddev:     2.11ms, sum:   9.1sec, count: 900
+all queries                                                        :
+min:     6.46ms, med:     9.76ms, mean:    10.09ms, max:   22.96ms, stddev:     2.11ms, sum:   9.1sec, count: 900
+
+After 1000 queries with 2 workers:
+Interval query rate: 195.77 queries/sec	Overall query rate: 197.41 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     6.46ms, med:     9.75ms, mean:    10.11ms, max:   24.71ms, stddev:     2.17ms, sum:  10.1sec, count: 1000
+all queries                                                        :
+min:     6.46ms, med:     9.75ms, mean:    10.11ms, max:   24.71ms, stddev:     2.17ms, sum:  10.1sec, count: 1000
+
+Run complete after 1000 queries with 2 workers (Overall query rate 197.01 queries/sec):
+ClickHouse 5 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     6.46ms, med:     9.75ms, mean:    10.11ms, max:   24.71ms, stddev:     2.17ms, sum:  10.1sec, count: 1000
+all queries                                                        :
+min:     6.46ms, med:     9.75ms, mean:    10.11ms, max:   24.71ms, stddev:     2.17ms, sum:  10.1sec, count: 1000
+wall clock time: 5.086492sec
+Running queries_clickhouse_single-groupby-5-1-1_ca592596c73b4ebdfbcb8397c9db91e2_1000_500_123_2020-01-01T00:00:00Z_2020-01-04T00:00:00Z_cpu-only.dat.gz
+After 100 queries with 2 workers:
+Interval query rate: 251.07 queries/sec	Overall query rate: 251.07 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     5.71ms, med:     7.67ms, mean:     7.88ms, max:   12.56ms, stddev:     1.41ms, sum:   0.8sec, count: 100
+all queries                                                       :
+min:     5.71ms, med:     7.67ms, mean:     7.88ms, max:   12.56ms, stddev:     1.41ms, sum:   0.8sec, count: 100
+
+After 200 queries with 2 workers:
+Interval query rate: 248.95 queries/sec	Overall query rate: 250.01 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     5.64ms, med:     7.59ms, mean:     7.93ms, max:   13.94ms, stddev:     1.50ms, sum:   1.6sec, count: 200
+all queries                                                       :
+min:     5.64ms, med:     7.59ms, mean:     7.93ms, max:   13.94ms, stddev:     1.50ms, sum:   1.6sec, count: 200
+
+After 300 queries with 2 workers:
+Interval query rate: 251.72 queries/sec	Overall query rate: 250.57 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     5.64ms, med:     7.65ms, mean:     7.94ms, max:   13.94ms, stddev:     1.52ms, sum:   2.4sec, count: 300
+all queries                                                       :
+min:     5.64ms, med:     7.65ms, mean:     7.94ms, max:   13.94ms, stddev:     1.52ms, sum:   2.4sec, count: 300
+
+After 400 queries with 2 workers:
+Interval query rate: 260.65 queries/sec	Overall query rate: 253.02 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     5.64ms, med:     7.63ms, mean:     7.87ms, max:   14.30ms, stddev:     1.46ms, sum:   3.2sec, count: 400
+all queries                                                       :
+min:     5.64ms, med:     7.63ms, mean:     7.87ms, max:   14.30ms, stddev:     1.46ms, sum:   3.2sec, count: 400
+
+After 500 queries with 2 workers:
+Interval query rate: 259.29 queries/sec	Overall query rate: 254.25 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     5.64ms, med:     7.63ms, mean:     7.83ms, max:   14.30ms, stddev:     1.43ms, sum:   3.9sec, count: 500
+all queries                                                       :
+min:     5.64ms, med:     7.63ms, mean:     7.83ms, max:   14.30ms, stddev:     1.43ms, sum:   3.9sec, count: 500
+
+After 600 queries with 2 workers:
+Interval query rate: 254.46 queries/sec	Overall query rate: 254.28 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     5.60ms, med:     7.61ms, mean:     7.83ms, max:   15.25ms, stddev:     1.48ms, sum:   4.7sec, count: 600
+all queries                                                       :
+min:     5.60ms, med:     7.61ms, mean:     7.83ms, max:   15.25ms, stddev:     1.48ms, sum:   4.7sec, count: 600
+
+After 700 queries with 2 workers:
+Interval query rate: 261.98 queries/sec	Overall query rate: 255.35 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     5.51ms, med:     7.59ms, mean:     7.81ms, max:   17.61ms, stddev:     1.50ms, sum:   5.5sec, count: 700
+all queries                                                       :
+min:     5.51ms, med:     7.59ms, mean:     7.81ms, max:   17.61ms, stddev:     1.50ms, sum:   5.5sec, count: 700
+
+After 800 queries with 2 workers:
+Interval query rate: 262.24 queries/sec	Overall query rate: 256.20 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     5.51ms, med:     7.58ms, mean:     7.79ms, max:   18.38ms, stddev:     1.50ms, sum:   6.2sec, count: 800
+all queries                                                       :
+min:     5.51ms, med:     7.58ms, mean:     7.79ms, max:   18.38ms, stddev:     1.50ms, sum:   6.2sec, count: 800
+
+After 900 queries with 2 workers:
+Interval query rate: 247.66 queries/sec	Overall query rate: 255.22 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     5.51ms, med:     7.60ms, mean:     7.81ms, max:   18.38ms, stddev:     1.52ms, sum:   7.0sec, count: 900
+all queries                                                       :
+min:     5.51ms, med:     7.60ms, mean:     7.81ms, max:   18.38ms, stddev:     1.52ms, sum:   7.0sec, count: 900
+
+After 1000 queries with 2 workers:
+Interval query rate: 250.25 queries/sec	Overall query rate: 254.71 queries/sec
+ClickHouse 5 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     5.51ms, med:     7.61ms, mean:     7.84ms, max:   18.38ms, stddev:     1.53ms, sum:   7.8sec, count: 1000
+all queries                                                       :
+min:     5.51ms, med:     7.61ms, mean:     7.84ms, max:   18.38ms, stddev:     1.53ms, sum:   7.8sec, count: 1000
+
+Run complete after 1000 queries with 2 workers (Overall query rate 254.22 queries/sec):
+ClickHouse 5 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     5.51ms, med:     7.61ms, mean:     7.84ms, max:   18.38ms, stddev:     1.53ms, sum:   7.8sec, count: 1000
+all queries                                                       :
+min:     5.51ms, med:     7.61ms, mean:     7.84ms, max:   18.38ms, stddev:     1.53ms, sum:   7.8sec, count: 1000
+wall clock time: 3.941839sec
+Running queries_clickhouse_single-groupby-5-8-1_ca592596c73b4ebdfbcb8397c9db91e2_1000_500_123_2020-01-01T00:00:00Z_2020-01-04T00:00:00Z_cpu-only.dat.gz
+After 100 queries with 2 workers:
+Interval query rate: 120.95 queries/sec	Overall query rate: 120.95 queries/sec
+ClickHouse 5 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:    11.77ms, med:    15.99ms, mean:    16.46ms, max:   23.39ms, stddev:     2.48ms, sum:   1.6sec, count: 100
+all queries                                                       :
+min:    11.77ms, med:    15.99ms, mean:    16.46ms, max:   23.39ms, stddev:     2.48ms, sum:   1.6sec, count: 100
+
+After 200 queries with 2 workers:
+Interval query rate: 121.18 queries/sec	Overall query rate: 121.06 queries/sec
+ClickHouse 5 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:    11.64ms, med:    15.83ms, mean:    16.43ms, max:   25.66ms, stddev:     2.64ms, sum:   3.3sec, count: 200
+all queries                                                       :
+min:    11.64ms, med:    15.83ms, mean:    16.43ms, max:   25.66ms, stddev:     2.64ms, sum:   3.3sec, count: 200
+
+After 300 queries with 2 workers:
+Interval query rate: 122.47 queries/sec	Overall query rate: 121.53 queries/sec
+ClickHouse 5 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:    11.64ms, med:    15.74ms, mean:    16.42ms, max:   30.01ms, stddev:     2.82ms, sum:   4.9sec, count: 300
+all queries                                                       :
+min:    11.64ms, med:    15.74ms, mean:    16.42ms, max:   30.01ms, stddev:     2.82ms, sum:   4.9sec, count: 300
+
+After 400 queries with 2 workers:
+Interval query rate: 117.10 queries/sec	Overall query rate: 120.39 queries/sec
+ClickHouse 5 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:    11.64ms, med:    15.84ms, mean:    16.58ms, max:   33.09ms, stddev:     3.03ms, sum:   6.6sec, count: 400
+all queries                                                       :
+min:    11.64ms, med:    15.84ms, mean:    16.58ms, max:   33.09ms, stddev:     3.03ms, sum:   6.6sec, count: 400
+
+After 500 queries with 2 workers:
+Interval query rate: 121.96 queries/sec	Overall query rate: 120.70 queries/sec
+ClickHouse 5 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:    11.64ms, med:    15.79ms, mean:    16.52ms, max:   33.09ms, stddev:     3.03ms, sum:   8.3sec, count: 500
+all queries                                                       :
+min:    11.64ms, med:    15.79ms, mean:    16.52ms, max:   33.09ms, stddev:     3.03ms, sum:   8.3sec, count: 500
+
+After 600 queries with 2 workers:
+Interval query rate: 121.85 queries/sec	Overall query rate: 120.89 queries/sec
+ClickHouse 5 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:    11.29ms, med:    15.80ms, mean:    16.51ms, max:   33.09ms, stddev:     3.09ms, sum:   9.9sec, count: 600
+all queries                                                       :
+min:    11.29ms, med:    15.80ms, mean:    16.51ms, max:   33.09ms, stddev:     3.09ms, sum:   9.9sec, count: 600
+
+After 700 queries with 2 workers:
+Interval query rate: 120.29 queries/sec	Overall query rate: 120.81 queries/sec
+ClickHouse 5 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:    11.29ms, med:    15.83ms, mean:    16.53ms, max:   34.56ms, stddev:     3.17ms, sum:  11.6sec, count: 700
+all queries                                                       :
+min:    11.29ms, med:    15.83ms, mean:    16.53ms, max:   34.56ms, stddev:     3.17ms, sum:  11.6sec, count: 700
+
+After 800 queries with 2 workers:
+Interval query rate: 119.62 queries/sec	Overall query rate: 120.66 queries/sec
+ClickHouse 5 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:    10.13ms, med:    15.85ms, mean:    16.55ms, max:   34.56ms, stddev:     3.15ms, sum:  13.2sec, count: 800
+all queries                                                       :
+min:    10.13ms, med:    15.85ms, mean:    16.55ms, max:   34.56ms, stddev:     3.15ms, sum:  13.2sec, count: 800
+
+After 900 queries with 2 workers:
+Interval query rate: 121.78 queries/sec	Overall query rate: 120.78 queries/sec
+ClickHouse 5 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:    10.13ms, med:    15.85ms, mean:    16.53ms, max:   34.56ms, stddev:     3.12ms, sum:  14.9sec, count: 900
+all queries                                                       :
+min:    10.13ms, med:    15.85ms, mean:    16.53ms, max:   34.56ms, stddev:     3.12ms, sum:  14.9sec, count: 900
+
+After 1000 queries with 2 workers:
+Interval query rate: 120.65 queries/sec	Overall query rate: 120.77 queries/sec
+ClickHouse 5 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:    10.13ms, med:    15.85ms, mean:    16.54ms, max:   37.56ms, stddev:     3.17ms, sum:  16.5sec, count: 1000
+all queries                                                       :
+min:    10.13ms, med:    15.85ms, mean:    16.54ms, max:   37.56ms, stddev:     3.17ms, sum:  16.5sec, count: 1000
+
+Run complete after 1000 queries with 2 workers (Overall query rate 120.55 queries/sec):
+ClickHouse 5 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:    10.13ms, med:    15.85ms, mean:    16.54ms, max:   37.56ms, stddev:     3.17ms, sum:  16.5sec, count: 1000
+all queries                                                       :
+min:    10.13ms, med:    15.85ms, mean:    16.54ms, max:   37.56ms, stddev:     3.17ms, sum:  16.5sec, count: 1000
+wall clock time: 8.310219sec

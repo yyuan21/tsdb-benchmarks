@@ -25,9 +25,9 @@ The following chart lists the specifications of the AWS EC2 instance used for be
 | Log Interval    | 10 seconds        |
 | Dataset Size    | 330 MiB           |
 
+**** Insertions
 
-
-The statistics of loading the dataset into clickhouse server:
+The statistics for inserting the dataset into clickhouse server:
 
 #+BEGIN_SRC 
 time,per. metric/s,metric total,overall metric/s,per. row/s,row total,overall row/s
@@ -47,9 +47,22 @@ loaded 129600000 metrics in 103.801sec with 2 workers (mean rate 1248542.29 metr
 loaded 12960000 rows in 103.801sec with 2 workers (mean rate 124854.23 rows/sec)
 #+END_SRC
 
-#+CAPTION: FlameGraph for Loading CPU-Only dataset
+The following FlameGraph was generated using Linux perf tool
+
+#+BEGIN_SRC sh
+# capture 60 seconds of 99 Hertz stack samples on all cpus
+sudo perf record -F 99 -a -g -- sleep 120
+#+END_SRC
+
+#+CAPTION: FlameGraph for inserting CPU-Only dataset
 #+NAME:   fig:fg-cpu-only
 [[./flamegraphs/clickhouse-perf-load-cpu-500-hosts-3-days.svg]]
+
+**** Queries
+
+#+CAPTION: FlameGraph (Queries)
+#+NAME:   fig:fg-cpu-only
+./flamegraphs/clickhouse-perf-queries-cpu-500-hosts-3-days.svg
 
 ** Authors
 
